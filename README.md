@@ -569,6 +569,37 @@ These limitations are intentional for a learning implementation and will be addr
 
 ---
 
+## Support This Project
+
+JALLM is a free, open-source project built from scratch in pure Java. If you find this project useful and would like to support its development, consider making a donation. Every contribution helps keep the project alive and growing.
+
+### Donate via UPI
+
+**UPI ID:** `viral.prajapati.nmims@okicici`
+
+You can send a donation using any UPI app (Google Pay, PhonePe, Paytm, BHIM, etc.) by entering the UPI ID above.
+
+### Why Donate?
+
+- **Server costs** — Running build pipelines, CI/CD, and project hosting
+- **Development time** — Every feature you see here was hand-coded from scratch — no AI frameworks, no shortcuts
+- **Testing** — 67+ tests across tensor math, autograd, attention, transformers, tokenization, and end-to-end training
+- **Documentation** — Keeping project plans, implementation guides, and this README up to date
+
+### Spread the Word
+
+If you can't donate, you can still help enormously by:
+
+- ⭐ **Starring** the repository on GitHub
+- 🔄 **Sharing** the project with friends and on social media
+- 🐛 **Reporting** bugs or suggesting features via issues
+- 📝 **Contributing** code, documentation, or example datasets
+- 📢 **Blogging** or making videos about your experience using JALLM
+
+Every share doubles our reach. Thank you for supporting free, open-source AI education!
+
+---
+
 ## Contributing
 
 This is an open Beta project. Contributions are welcome!
